@@ -4,6 +4,7 @@
 # :pushpin: Conteúdo
   - [Tecnologias usadas](#computer-tecnologias)
   - [Executando](#construction_worker-executando)
+  - [Autores](#computer-autores)
 # Fotos
 <div>
   <img src="https://github.com/Fabriciocruzc/moveOn/blob/main/moveOn-next/public/screenshots/home.PNG" width="400" height="300"/>
@@ -35,11 +36,13 @@ $ yarn
 # Execute
 $ yarn dev
 ```
+# :computer: Autores
+
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Fabriciocruzc">
-        <img src="https://avatars.githubusercontent.com/u/32718377?v=4" width="150px;" alt="Fabricio Cruz"/>
+        <img src="https://avatars.githubusercontent.com/u/32718377?v=4" width="125px;" alt="Fabricio Cruz"/>
         <br />
         <sub>
           <b>Fabricio Cruz</b>
