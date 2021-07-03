@@ -1,3 +1,5 @@
 # moveOn
-<img height="300" src="https://github.com/Fabriciocruzc/moveOn/blob/main/moveOn-next/public/screenshots/home.PNG"/>
-<img height="300" position="left" src="https://github.com/Fabriciocruzc/moveOn/blob/main/moveOn-next/public/screenshots/IniciarTempo.PNG" />
+<div>
+<img src="https://github.com/Fabriciocruzc/moveOn/blob/main/moveOn-next/public/screenshots/home.PNG" width="400"/>
+<img src="https://github.com/Fabriciocruzc/moveOn/blob/main/moveOn-next/public/screenshots/IniciarTempo.PNG" width="400"/>
+</div>
