@@ -35,4 +35,28 @@ $ yarn
 # Execute
 $ yarn dev
 ```
- 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Fabriciocruzc">
+        <img src="https://github.com/account" width="100px;" alt="Fabricio Cruz"/>
+        <br />
+        <sub>
+          <b>Fabricio Cruz</b>
+        </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fabriciocruzc">
+        <img src="https://github.com/Fabriciocruzc" width="100px;" alt="Fabricio Cruz"/>
+        <br />
+        <sub>
+          <b>Rocketseat</b>
+        </sub>
+       </a>
+       <br />
+       <a href="https://github.com/Rocketseat" title="Linkedin">@Rocketseat</a>
+       <br />
+       <a href="https://github.com/tavareshenrique/fastfeet-api/commits?author=tavareshenrique" title="Creators">🚀</a>
+    </td>
+  </tr>
+</table>
