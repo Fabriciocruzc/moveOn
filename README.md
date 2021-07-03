@@ -39,7 +39,7 @@ $ yarn dev
   <tr>
     <td align="center">
       <a href="https://github.com/Fabriciocruzc">
-        <img src="https://avatars.githubusercontent.com/u/32718377?v=4" width="100px;" alt="Fabricio Cruz"/>
+        <img src="https://avatars.githubusercontent.com/u/32718377?v=4" width="150px;" alt="Fabricio Cruz"/>
         <br />
         <sub>
           <b>Fabricio Cruz</b>
