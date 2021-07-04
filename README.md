@@ -24,7 +24,7 @@
 
 ```bash
 # Clone o Repositório
-$ git@github.com:tavareshenrique/moveOn-next.git
+$ git@github.com:tavareshenrique/moveOn.git
 ```
 
 ```bash
